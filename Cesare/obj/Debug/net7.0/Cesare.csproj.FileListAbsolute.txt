@@ -1,0 +1,15 @@
+c:\Users\casar\Desktop\Cesare\bin\Debug\net7.0\Cesare.exe
+c:\Users\casar\Desktop\Cesare\bin\Debug\net7.0\Cesare.deps.json
+c:\Users\casar\Desktop\Cesare\bin\Debug\net7.0\Cesare.runtimeconfig.json
+c:\Users\casar\Desktop\Cesare\bin\Debug\net7.0\Cesare.dll
+c:\Users\casar\Desktop\Cesare\bin\Debug\net7.0\Cesare.pdb
+c:\Users\casar\Desktop\Cesare\obj\Debug\net7.0\Cesare.csproj.AssemblyReference.cache
+c:\Users\casar\Desktop\Cesare\obj\Debug\net7.0\Cesare.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\casar\Desktop\Cesare\obj\Debug\net7.0\Cesare.AssemblyInfoInputs.cache
+c:\Users\casar\Desktop\Cesare\obj\Debug\net7.0\Cesare.AssemblyInfo.cs
+c:\Users\casar\Desktop\Cesare\obj\Debug\net7.0\Cesare.csproj.CoreCompileInputs.cache
+c:\Users\casar\Desktop\Cesare\obj\Debug\net7.0\Cesare.dll
+c:\Users\casar\Desktop\Cesare\obj\Debug\net7.0\refint\Cesare.dll
+c:\Users\casar\Desktop\Cesare\obj\Debug\net7.0\Cesare.pdb
+c:\Users\casar\Desktop\Cesare\obj\Debug\net7.0\Cesare.genruntimeconfig.cache
+c:\Users\casar\Desktop\Cesare\obj\Debug\net7.0\ref\Cesare.dll
