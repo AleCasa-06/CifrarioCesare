@@ -1,0 +1,15 @@
+C:\Users\9698103\source\repos\Vigenere\bin\Debug\net6.0\Vigenere.exe
+C:\Users\9698103\source\repos\Vigenere\bin\Debug\net6.0\Vigenere.deps.json
+C:\Users\9698103\source\repos\Vigenere\bin\Debug\net6.0\Vigenere.runtimeconfig.json
+C:\Users\9698103\source\repos\Vigenere\bin\Debug\net6.0\Vigenere.dll
+C:\Users\9698103\source\repos\Vigenere\bin\Debug\net6.0\Vigenere.pdb
+C:\Users\9698103\source\repos\Vigenere\obj\Debug\net6.0\Vigenere.csproj.AssemblyReference.cache
+C:\Users\9698103\source\repos\Vigenere\obj\Debug\net6.0\Vigenere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9698103\source\repos\Vigenere\obj\Debug\net6.0\Vigenere.AssemblyInfoInputs.cache
+C:\Users\9698103\source\repos\Vigenere\obj\Debug\net6.0\Vigenere.AssemblyInfo.cs
+C:\Users\9698103\source\repos\Vigenere\obj\Debug\net6.0\Vigenere.csproj.CoreCompileInputs.cache
+C:\Users\9698103\source\repos\Vigenere\obj\Debug\net6.0\Vigenere.dll
+C:\Users\9698103\source\repos\Vigenere\obj\Debug\net6.0\refint\Vigenere.dll
+C:\Users\9698103\source\repos\Vigenere\obj\Debug\net6.0\Vigenere.pdb
+C:\Users\9698103\source\repos\Vigenere\obj\Debug\net6.0\Vigenere.genruntimeconfig.cache
+C:\Users\9698103\source\repos\Vigenere\obj\Debug\net6.0\ref\Vigenere.dll
