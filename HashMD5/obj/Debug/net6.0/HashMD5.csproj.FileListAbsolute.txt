@@ -1,0 +1,15 @@
+C:\Users\9698103\source\repos\HashMD5\bin\Debug\net6.0\HashMD5.exe
+C:\Users\9698103\source\repos\HashMD5\bin\Debug\net6.0\HashMD5.deps.json
+C:\Users\9698103\source\repos\HashMD5\bin\Debug\net6.0\HashMD5.runtimeconfig.json
+C:\Users\9698103\source\repos\HashMD5\bin\Debug\net6.0\HashMD5.dll
+C:\Users\9698103\source\repos\HashMD5\bin\Debug\net6.0\HashMD5.pdb
+C:\Users\9698103\source\repos\HashMD5\obj\Debug\net6.0\HashMD5.csproj.AssemblyReference.cache
+C:\Users\9698103\source\repos\HashMD5\obj\Debug\net6.0\HashMD5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9698103\source\repos\HashMD5\obj\Debug\net6.0\HashMD5.AssemblyInfoInputs.cache
+C:\Users\9698103\source\repos\HashMD5\obj\Debug\net6.0\HashMD5.AssemblyInfo.cs
+C:\Users\9698103\source\repos\HashMD5\obj\Debug\net6.0\HashMD5.csproj.CoreCompileInputs.cache
+C:\Users\9698103\source\repos\HashMD5\obj\Debug\net6.0\HashMD5.dll
+C:\Users\9698103\source\repos\HashMD5\obj\Debug\net6.0\refint\HashMD5.dll
+C:\Users\9698103\source\repos\HashMD5\obj\Debug\net6.0\HashMD5.pdb
+C:\Users\9698103\source\repos\HashMD5\obj\Debug\net6.0\HashMD5.genruntimeconfig.cache
+C:\Users\9698103\source\repos\HashMD5\obj\Debug\net6.0\ref\HashMD5.dll
